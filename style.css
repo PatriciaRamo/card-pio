@@ -1,0 +1,59 @@
+h3{
+    text-align: center, center;
+    color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 10mm;
+
+}
+
+@media all and (max-width:992px){
+body{
+    overflow-x: hidden;
+}
+}
+
+h2{
+    text-align: center;
+    color: whitesmoke;
+    font-style: italic;
+    font-size: 10mm;
+
+}
+p{
+    text-align: center;
+    color: whitesmoke;
+    font-style: oblique;
+    font-size: 8mm;
+
+    
+}
+footer{
+    color:white;
+    background-color:rgba(20, 22, 43, 0.226);
+    outline-color: white;
+    text-align: center;
+
+
+}
+.color {
+    text-align: center;
+    color:whitesmoke;
+}
+.btn-site{
+    color: whitesmoke;
+    background-color:rgba(0, 128, 0, 0.479);
+}
+btn-imagens{
+    color: whitesmoke;
+}
+.btn-site{
+    text-decoration: none;
+    border-radius: 13px;
+}
+
+
+
+
+
+    
